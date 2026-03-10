@@ -13,7 +13,7 @@ But don't worry — the project you are looking for is here:
 https://github.com/gagannchandra/retail-order-inventory-management
 
 🚀 **Live Deployed Project**  
-https://retail-order-inventory-management
+https://retail-order-inventory-management.onrender.com/
 
 ## About the Project
 
